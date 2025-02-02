@@ -3,7 +3,7 @@
 
 [![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://aerasolana.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aera?style=social)](https://x.com/AeraSolana)
-[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](discord.gg/aera)
+[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/aera)
 
 🌐 Aera is the easiest way to connect your AI agents with the browser. 
 
