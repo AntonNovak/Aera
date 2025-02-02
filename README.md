@@ -1,13 +1,10 @@
 <h1 align="center">Aera</h1>
 <p align="center">Enable AI to control your browser 🤖</p>
 
-[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.browser-use.com/discord)
 [![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://aerasolana.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aera?style=social)](https://x.com/AeraSolana)
 
-🌐 Browser-use is the easiest way to connect your AI agents with the browser. 
-
-💡 See what others are building and share your projects in our [Discord](https://link.browser-use.com/discord) - we'd love to see what you create!
+🌐 Aera is the easiest way to connect your AI agents with the browser. 
 
 # Quick start
 
@@ -68,7 +65,7 @@ python examples/ui/gradio_demo.py
 
 # Demos
 
-[Prompt](https://github.com/browser-use/browser-use/blob/main/examples/use-cases/find_and_apply_to_jobs.py): Read my CV & find ML jobs, save them to a file, and then start applying for them in new tabs, if you need help, ask me.'
+Prompt: Read my CV & find ML jobs, save them to a file, and then start applying for them in new tabs, if you need help, ask me.'
 
 https://github.com/user-attachments/assets/171fb4d6-0355-46f2-863e-edb04a828d04
 
