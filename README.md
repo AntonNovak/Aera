@@ -2,14 +2,12 @@
 <p align="center">Enable AI to control your browser 🤖</p>
 
 [![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.browser-use.com/discord)
-[![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://docs.browser-use.com)
+[![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://aerasolana.com/#supported-models)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aera?style=social)](https://x.com/AeraSolana)
 
 🌐 Browser-use is the easiest way to connect your AI agents with the browser. 
 
 💡 See what others are building and share your projects in our [Discord](https://link.browser-use.com/discord) - we'd love to see what you create!
-
-🌩️ Skip the setup - try our hosted version for instant browser automation! [Try it now](https://cloud.browser-use.com).
 
 # Quick start
 
@@ -114,10 +112,6 @@ Tell your computer what to do, and it gets it done.
 ## Contributing
 
 We love contributions! Feel free to open issues for bugs or feature requests. To contribute to the docs, check out the `/docs` folder.
-
-## Local Setup
-
-To learn more about the library, check out the [local setup 📕](https://docs.browser-use.com/development/local-setup).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aera?style=social)](https://x.com/AeraSolana)
  
