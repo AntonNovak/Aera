@@ -47,14 +47,12 @@ Add your API keys for the provider you want to use to your `.env` file.
 OPENAI_API_KEY=
 ```
 
-For other settings, models, and more, check out the [documentation 📕](https://docs.browser-use.com).
+For other settings, models, and more, check out the [documentation 📕](https://aerasolana.com/).
 
 
 ### Test with UI
 
-You can test [browser-use with a UI repository](https://github.com/browser-use/web-ui)
-
-Or simply run the gradio example:
+You can simply run the gradio example:
 
 ```
 uv pip install gradio
