@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/171fb4d6-0355-46f2-863e-edb04a828d04
 
 ## More examples
 
-For more examples see the [examples](examples) folder or join the [Discord](https://link.browser-use.com/discord) and show off your project.
+For more examples see the examples folder or join the and show off your project.
 
 # Vision
 
