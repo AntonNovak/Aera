@@ -2,7 +2,7 @@
 <p align="center">Enable AI to control your browser 🤖</p>
 
 [![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.browser-use.com/discord)
-[![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://aerasolana.com/#supported-models)
+[![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://aerasolana.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aera?style=social)](https://x.com/AeraSolana)
 
 🌐 Browser-use is the easiest way to connect your AI agents with the browser. 
